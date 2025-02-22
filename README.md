@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# three_dimensional_display
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # 3D Display App with Flutter and Flutter3DController
 
 This Flutter project demonstrates the loading, interaction, and animation of 3D assets (specifically `.glb` files) using the `flutter_3d_controller` package. The app supports mobile and desktop platforms and features user interaction through swipe and button gestures, as well as on-screen or keyboard controls to manipulate 3D objects. It allows users to upload their own `.glb` files and view animated 3D models with a customizable avatar system.
